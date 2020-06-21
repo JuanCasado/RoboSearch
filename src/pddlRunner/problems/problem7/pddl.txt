@@ -1,0 +1,17 @@
+; Time 0.90
+ 0.000: (move robot1 location0 location4 fast)  [8.349]
+ 8.350: (recharge robot1 location4)  [534.000]
+ 542.351: (performtask robot1 location4 task1)  [20.000]
+ 562.352: (performtask robot1 location4 task1)  [20.000]
+ 582.353: (move robot1 location4 location3 fast)  [11.449]
+ 593.803: (recharge robot1 location3)  [498.000]
+ 1091.804: (performtask robot1 location3 task1)  [20.000]
+ 1111.805: (performtask robot1 location3 task1)  [20.000]
+ 1131.806: (performtask robot1 location3 task1)  [20.000]
+ 1144.541: (move robot2 location5 location2 fast)  [7.266]
+ 1151.808: (recharge robot2 location2)  [727.000]
+ 1878.809: (performtask robot2 location2 task2)  [2.000]
+ 1880.809: (move robot2 location2 location1 fast)  [9.133]
+ 1889.943: (performtask robot2 location1 task2)  [2.000]
+ 1891.944: (performtask robot2 location1 task2)  [2.000]
+ 

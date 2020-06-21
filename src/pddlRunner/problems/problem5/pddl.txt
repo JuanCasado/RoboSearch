@@ -1,0 +1,7 @@
+; Time 0.00
+ 0.000: (move robot1 location2 location1 slow)  [40.799]
+ 40.800: (recharge robot1 location1)  [508.000]
+ 548.801: (performtask robot1 location1 task1)  [20.000]
+ 568.801: (move robot1 location1 location0 slow)  [8.599]
+ 577.401: (performtask robot1 location0 task1)  [20.000]
+ 

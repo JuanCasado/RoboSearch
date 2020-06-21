@@ -1,0 +1,57 @@
+
+body, #global, #map, #out-wrap, #tools, #out, #action {
+  margin: 0;
+  padding: 0;
+}
+body, #global, #map, #out-wrap, #tools, #action {
+  overflow: hidden;
+}
+
+body, #global {
+  height: 100vh;
+  width: 100vw;
+}
+
+#global {
+  display: flex;
+}
+
+#map {
+  border-right-style: solid;
+}
+
+#out-wrap, #map {
+  height: 100vh;
+  width: 50vw;
+  float: left;
+}
+
+#out {
+  height: 90vh;
+  width: 50vw;
+  overflow: scroll;
+}
+
+#tools, #action, #popup-content{
+  text-align: center;
+}
+
+#tools {
+  height: 5vh;
+  width: 50vw;
+}
+
+#action {
+  height: 5vh;
+  width: 50vw;
+}
+
+#loaded {
+  height: 0vh;
+  width: 0vw;
+  visibility: hidden;
+}
+
+img {
+  margin-bottom: 20px;
+}

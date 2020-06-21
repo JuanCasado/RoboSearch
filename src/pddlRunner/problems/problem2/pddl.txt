@@ -1,0 +1,13 @@
+; Time 0.03
+ 0.000: (move robot0 location2 location6 fast)  [96.250]
+ 96.251: (recharge robot0 location6)  [6.080]
+ 102.331: (move robot0 location6 location0 fast)  [83.750]
+ 186.082: (move robot0 location0 location1 fast)  [96.250]
+ 282.333: (recharge robot0 location1)  [5.759]
+ 288.092: (move robot0 location1 location5 fast)  [93.750]
+ 381.843: (move robot0 location5 location3 fast)  [95.000]
+ 476.844: (recharge robot0 location3)  [6.040]
+ 482.884: (move robot0 location3 location4 fast)  [33.750]
+ 516.635: (performtask robot0 location4 drill)  [20.000]
+ 536.636: (performtask robot0 location4 drill)  [20.000]
+ 

@@ -1,0 +1,13 @@
+; Time 0.08
+ 0.000: (move robot1 location4 location2 fast)  [3.937]
+ 0.000: (move robot2 location3 location1 fast)  [3.500]
+ 3.501: (performtask robot2 location1 task1)  [20.000]
+ 3.938: (performtask robot1 location2 task1)  [20.000]
+ 23.502: (move robot2 location1 location0 fast)  [2.924]
+ 26.427: (performtask robot2 location0 task1)  [20.000]
+ 26.429: (performtask robot2 location0 task1)  [20.000]
+ 43.928: (move robot1 location2 location0 fast)  [2.500]
+ 46.428: (performtask robot2 location0 task1)  [20.000]
+ 66.428: (performtask robot1 location0 task1)  [20.000]
+ 66.429: (performtask robot2 location0 task1)  [20.000]
+ 

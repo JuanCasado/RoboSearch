@@ -1,0 +1,5 @@
+; Time 0.00
+ 0.000: (move robot1 location1 location0 fast)  [8.175]
+ 8.176: (recharge robot1 location0)  [427.000]
+ 435.177: (performtask robot1 location0 drill)  [20.000]
+ 
